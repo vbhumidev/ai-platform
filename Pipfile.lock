@@ -18,9 +18,9 @@
     "default": {
         "alembic": {
             "hashes": [
-                "sha256:49277bb7242192bbb9eac58fed4fe02ec6c3a2a4b4345d2171197459266482b2"
+                "sha256:3b0cb1948833e062f4048992fbc97ecfaaaac24aaa0d83a1202a99fb58af8c6d"
             ],
-            "version": "==1.3.1"
+            "version": "==1.3.2"
         },
         "certifi": {
             "hashes": [
@@ -175,11 +175,11 @@
         },
         "mlflow": {
             "hashes": [
-                "sha256:87ac6cc9087af58b6bca7f002832c2f10de83a50c5f8d5aeaa50ad379ac7eb37",
-                "sha256:9116d82be380c32fa465049d14b217c4c200ad11614f4c6674e6b524b2935206"
+                "sha256:8eb6d91d126eded40d0ef7b1e887f599bf6085d28ae07e0c1a256eabc3770cc9",
+                "sha256:c5a9bda701498d44a3a5b1df646ab08691b482fca326c69e0b91c594b0788487"
             ],
             "index": "pypi",
-            "version": "==1.4.0"
+            "version": "==1.5.0"
         },
         "numpy": {
             "hashes": [
@@ -231,6 +231,18 @@
             ],
             "version": "==0.25.3"
         },
+        "prometheus-client": {
+            "hashes": [
+                "sha256:71cd24a2b3eb335cb800c7159f423df1bd4dcd5171b234be15e3f31ec9f622da"
+            ],
+            "version": "==0.7.1"
+        },
+        "prometheus-flask-exporter": {
+            "hashes": [
+                "sha256:ad74d487c6233b78fc51578d1f1e54ee5576dcfc41cb39e4a6b0ca2dc88b2411"
+            ],
+            "version": "==0.12.1"
+        },
         "protobuf": {
             "hashes": [
                 "sha256:0265379852b9e1f76af6d3d3fe4b3c383a595cc937594bda8565cf69a96baabd",
@@ -250,7 +262,6 @@
                 "sha256:e84ad26fb50091b1ea676403c0dd2bd47663099454aa6d88000b1dafecab0941",
                 "sha256:e88a924b591b06d0191620e9c8aa75297b3111066bb09d49a24bae1054a10c13"
             ],
-            "index": "pypi",
             "version": "==3.11.1"
         },
         "python-dateutil": {
@@ -341,9 +352,9 @@
         },
         "sqlalchemy": {
             "hashes": [
-                "sha256:afa5541e9dea8ad0014251bc9d56171ca3d8b130c9627c6cb3681cff30be3f8a"
+                "sha256:bfb8f464a5000b567ac1d350b9090cf081180ec1ab4aa87e7bca12dab25320ec"
             ],
-            "version": "==1.3.11"
+            "version": "==1.3.12"
         },
         "sqlparse": {
             "hashes": [
